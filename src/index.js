@@ -1,11 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
+import Weather from "./Weather";
+import Footer from "./Footer";
 
-function Index() {
+import "./App.css";
+
+function App() {
   return (
     <div className="App">
-      <App />
+      <Weather />
+      <Footer />
     </div>
   );
 }

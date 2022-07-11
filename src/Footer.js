@@ -8,6 +8,7 @@ export default function Footer() {
       <a
         href="https://github.com/gloriatoth/react-4-weather-react"
         target="_blank"
+        rel="noopener noreferrer"
       >
         Open-source code
       </a>
